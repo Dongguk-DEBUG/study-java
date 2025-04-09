@@ -8,6 +8,6 @@ public class Taeyoon20250409 {
         String hi = "hello";
         char small = 'A';
         boolean check = true;
-        
+
     }
 }
